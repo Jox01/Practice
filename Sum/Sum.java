@@ -12,13 +12,9 @@ public class Sum {
         int sum = 0; 
 
         if(a != b){
-            //create a list
-            ArrayList<Integer> summands = new ArrayList<Integer>(Arrays.asList(a,b));
-            //sort
-            summands.sort(null);
-            sum = summands.get(0);
+            
             //factorial sum
-            for (int i = summands.get(0)+1; i <= summands.get(1); i++) {
+            for (int i = Math.min(a, b); i <= Math.max(a, b); i++) {
 
                 sum +=i;
                 
