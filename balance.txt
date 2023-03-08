@@ -1,2 +1,0 @@
-costos: 3629
-ingresos: 8891
