@@ -1,0 +1,9 @@
+producto: coixi
+cantidad: 90
+precio: 10
+producto: coixi_doble_altura
+cantidad: 80
+precio: 16
+producto: coixi_ela
+cantidad: 80
+precio: 20

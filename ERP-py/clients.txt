@@ -1,0 +1,8 @@
+nom: jose manolo
+facturat: 80
+nom: jaume
+facturat: 3608
+nom: aina
+facturat: 8380
+nom: sebas
+facturat: 153
